@@ -1,2 +1,4 @@
 streamlit==1.44.1
-watchdog==3.0.0 
+watchdog==3.0.0
+requests==2.32.3
+hangul-romanize==0.1.0 
